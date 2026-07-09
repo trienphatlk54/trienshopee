@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://script.google.com/macros/s/AKfycbzcntn3YReeraZ9YVKzmGRFdEWga0um1hzmCDW27boXlACkShKVF-B4Wg3Lz66c8COg/exec",
+      "destination": "https://script.google.com/macros/s/AKfycbypxoOiqH9IczlkhPglt6PCYN4zuPxS-cm7wrwPbUMND7nfOhbZDdjJKd7tgZUWE21y/exec",
       "permanent": false
     }
   ]
